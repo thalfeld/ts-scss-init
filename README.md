@@ -1,6 +1,9 @@
-##ts-scss-init
+## ts-scss-init
 
 Minimal dev-setup for quick test & prototyping
-`npm install`
-`npm run start`
-(or yarn equivalent)
+
+`yarn install`
+
+`yarn start`
+
+(or npm/npx equivalent)
